@@ -1,3 +1,7 @@
+This is a little project I did with a template and some photos of my friend. Hosted here: https://stupefied-lalande-b094af.netlify.app/
+
+
+
 Ethereal by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
